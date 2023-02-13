@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Juegos PC</name>
+   <tag></tag>
+   <elementGuidId>fce37587-1bf1-4ea1-bbf6-94cb6a440d05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.drop.negrilla</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='menu']/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bd3bd66d-8c9a-4535-a090-068009719eae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://compucalitv.org/juegos-pc/</value>
+      <webElementGuid>da352bc0-11df-4512-8c5a-7ba65d06d404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Ver Todas las Entradas Archivadas en la Categoria Juegos de PC</value>
+      <webElementGuid>9108d92d-2cb9-4a43-af71-f5f0fa71d545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>drop negrilla</value>
+      <webElementGuid>82bc850c-37e1-44cb-b8a8-b898c7cd5080</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Juegos PC</value>
+      <webElementGuid>409f3026-77e1-4747-ae0b-042a4c1d9354</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu&quot;)/li[2]/a[@class=&quot;drop negrilla&quot;]</value>
+      <webElementGuid>2a3512da-7784-4b29-b7c7-e6df1a23540c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='menu']/li[2]/a</value>
+      <webElementGuid>c737f82a-b286-471c-96e3-d904be3f2a90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Juegos PC')])[2]</value>
+      <webElementGuid>73374638-dfb2-4778-9619-49200b529f23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Programas'])[1]/following::a[9]</value>
+      <webElementGuid>ef458400-9d89-46b8-a97f-20d3aa868caf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Series'])[1]/following::a[10]</value>
+      <webElementGuid>871e2be2-9868-4e28-a2ee-7eddc6a78cff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Genero'])[1]/preceding::a[1]</value>
+      <webElementGuid>f19af737-04fc-4289-8be0-a03c8c5ba697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acción'])[1]/preceding::a[1]</value>
+      <webElementGuid>2e55b687-4cc7-4bb0-bb3d-6a56eeb59063</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://compucalitv.org/juegos-pc/')])[3]</value>
+      <webElementGuid>b0908532-d7ec-4809-b186-4326b14f53ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>a8a9e076-831e-4af3-a78a-0b20356942d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://compucalitv.org/juegos-pc/' and @title = 'Ver Todas las Entradas Archivadas en la Categoria Juegos de PC' and (text() = ' Juegos PC' or . = ' Juegos PC')]</value>
+      <webElementGuid>2986dc1b-5c60-4d5c-8a95-e5e48dd5c283</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

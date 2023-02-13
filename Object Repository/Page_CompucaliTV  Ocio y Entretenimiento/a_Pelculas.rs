@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Pelculas</name>
+   <tag></tag>
+   <elementGuidId>be56227a-319a-4f0f-b576-09ebfc4d7613</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='menu']/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2255464a-4418-4eb2-806a-65969ca4c6c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://compucalitv.org/peliculas/720p-y-1080p/</value>
+      <webElementGuid>abca94cd-5684-4378-8c97-1131fd1a8e00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Ver Todas las Entradas Archivadas en la Categoria Peliculas HD</value>
+      <webElementGuid>7253cc44-caf8-4d8f-86b6-3a3bc6b3823e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>drop negrilla</value>
+      <webElementGuid>faf6d404-bec9-4594-abbd-744908547862</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Películas</value>
+      <webElementGuid>a0e5f911-62d7-4194-aef2-a76713f8edfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu&quot;)/li[3]/a[@class=&quot;drop negrilla&quot;]</value>
+      <webElementGuid>41eccea0-c6f4-486c-bbd2-29248409893f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='menu']/li[3]/a</value>
+      <webElementGuid>2d14621f-71b5-4bee-8c41-0f008f395dbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Películas')]</value>
+      <webElementGuid>141ee6fd-b824-429f-8650-01e60d77ac68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Realidad Virtual'])[1]/following::a[1]</value>
+      <webElementGuid>dc6df8dc-1d40-4deb-b9a1-8b7131a1a920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plataformas'])[1]/following::a[2]</value>
+      <webElementGuid>396c06ac-434b-4499-a0fb-1cbf1abcfcc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Formato'])[1]/preceding::a[1]</value>
+      <webElementGuid>a3eb6ccf-17b2-4e7d-a03a-5833fdaac2b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Idioma'])[1]/preceding::a[4]</value>
+      <webElementGuid>8eb3b593-f596-4936-a823-e221aca70c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Películas']/parent::*</value>
+      <webElementGuid>9ff84241-d03b-4790-9c70-63d75b4439c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://compucalitv.org/peliculas/720p-y-1080p/')]</value>
+      <webElementGuid>1f3fd62e-f32f-40b0-9a59-2bd8b600dc52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>3fb9d01b-b23e-422b-aba4-a574c082c3dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://compucalitv.org/peliculas/720p-y-1080p/' and @title = 'Ver Todas las Entradas Archivadas en la Categoria Peliculas HD' and (text() = ' Películas' or . = ' Películas')]</value>
+      <webElementGuid>bbf0b0b4-64a3-406d-b805-3a25e1858fa0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
